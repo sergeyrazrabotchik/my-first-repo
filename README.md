@@ -1,3 +1,3 @@
 # my-first-repo
 this if my first repo
-$a_1$
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
